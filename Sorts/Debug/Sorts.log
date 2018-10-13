@@ -1,0 +1,4 @@
+﻿  Sorts.cpp
+c:\users\lhc22\source\repos\sorts\sorts\sorts.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\lhc22\source\repos\sorts\sorts\sorts.cpp(54): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sorts.vcxproj -> C:\Users\lhc22\source\repos\Sorts\Debug\Sorts.exe
