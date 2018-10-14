@@ -151,7 +151,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="generalFunc.cpp" />
+    <ClCompile Include="heapsort.cpp" />
+    <ClCompile Include="mergesort.cpp" />
+    <ClCompile Include="quickSort.cpp" />
     <ClCompile Include="Sorts.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="funcDec.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
